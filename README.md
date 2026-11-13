@@ -1239,7 +1239,7 @@ zenmap-host-discovery.png
 
 zenmap_topology.pdf
 
-[View Zenmap Network Topology (PDF)](evidence/Zenmap/zenmap_topology.pdf)
+[View Zenmap Network Topology (PDF)](evidence/Zenmap/zenmap_topology.png)
 
 ### Evidence Handling and Publication
 
