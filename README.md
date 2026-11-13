@@ -1176,33 +1176,32 @@ The quality of a security assessment depends not only on the tools used, but als
 
 ## 12. Evidence Appendix
 
-The following directory structure is recommended for organising the report's supporting evidence.
-```lua
-evidence/
-├── footprinting/
-│   ├── whois-output.png
-│   ├── whatweb-output.png
-│   ├── nslookup-output.png
-│   ├── curl-headers.png
-│   ├── wafw00f-output.png
-│   └── dnsrecon-output.png
-│
-├── ghdb/
-│   ├── ghdb-webcam-searches.png
-│
-├── maltego/
-│   ├── E11-maltego-investigation-graph.png
-│   ├── E12-maltego-transform-output.png   
-│
-├── theharvester/
-│   ├── theharvester-baidu-output.png
-│   ├── theharvester-all-sources.png
-│   └── theharvester-results.png
-│
-└── zenmap/
-    ├── zenmap-host-discovery.png
-    ├── zenmap_topology.pdf
-    └── local-network-configuration.png
+The following directory structure is the report's supporting evidence.
+
+## Footprinting
+whois-output.png
+whatweb-output.png
+nslookup-output.png
+curl-headers.png
+wafw00f-output.png
+
+
+## GHDB
+ghdb-webcam-searches.png
+
+## Maltego
+E11-maltego-investigation-graph.png
+E12-maltego-transform-output.png   
+
+## Theharvester
+theharvester-baidu-output.png
+theharvester-all-sources.png
+theharvester-results.png
+
+## Zenmap
+zenmap-host-discovery.png
+zenmap_topology.pdf
+local-network-configuration.png
 ```
 
 ### Evidence Handling and Publication
