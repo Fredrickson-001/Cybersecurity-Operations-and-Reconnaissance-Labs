@@ -1237,7 +1237,7 @@ zenmap-host-discovery.png
 
 ![Zenmap Host Discovery Results](evidence/Zenmap/zenmap-host-discovery.png)
 
-zenmap_topology.pdf
+zenmap_topology.png
 
 [View Zenmap Network Topology ](evidence/Zenmap/zenmap_topology.png)
 
