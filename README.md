@@ -1179,30 +1179,44 @@ The quality of a security assessment depends not only on the tools used, but als
 The following directory structure is the report's supporting evidence.
 
 ## Footprinting
+
 whois-output.png
+
 whatweb-output.png
+
 nslookup-output.png
+
 curl-headers.png
+
 wafw00f-output.png
 
 
 ## GHDB
+
 ghdb-webcam-searches.png
 
 ## Maltego
+
 E11-maltego-investigation-graph.png
+
 E12-maltego-transform-output.png   
 
 ## Theharvester
+
 theharvester-baidu-output.png
+
 theharvester-all-sources.png
+
 theharvester-results.png
 
 ## Zenmap
+
 zenmap-host-discovery.png
+
 zenmap_topology.pdf
+
 local-network-configuration.png
-```
+
 
 ### Evidence Handling and Publication
 
@@ -1217,7 +1231,7 @@ Before publishing this report or its evidence to a public GitHub repository:
 
 Maltego setup screenshots, including the download page, blank graph and practice graph using a different domain, should not be presented as findings from the actual investigation.
 
----
+
 
 **END OF REPORT**
 
