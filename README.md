@@ -924,13 +924,6 @@ The `-sn` option performs host discovery without conducting a port scan.
 | `192.168.61.230` | Default gateway   |
 | `192.168.61.164` | Local computer    |
 
-#### 5.5.4 MAC Address Information
-
-| Device          | MAC address         | Source                  |
-| --------------- | ------------------- | ----------------------- |
-| Default gateway | `16:7F:6E:7B:2B:0B` | Nmap/Zenmap output      |
-| Local computer  | `9C-2A-70-7C-70-82` | Windows `ipconfig /all` |
-
 The gateway MAC address was displayed with an unknown vendor.
 
 An unknown vendor result does not establish that the MAC address is randomised or that the gateway is a phone hotspot. A locally administered address is one possible explanation, but the available evidence does not confirm the reason.
