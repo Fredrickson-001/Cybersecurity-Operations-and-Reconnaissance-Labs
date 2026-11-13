@@ -1178,45 +1178,31 @@ The quality of a security assessment depends not only on the tools used, but als
 
 The following directory structure is the report's supporting evidence.
 
-## Footprinting
-
-whois-output.png
-
-whatweb-output.png
-
-nslookup-output.png
-
-curl-headers.png
-
-wafw00f-output.png
-
-
-## GHDB
-
-ghdb-webcam-searches.png
-
-## Maltego
-
-E11-maltego-investigation-graph.png
-
-E12-maltego-transform-output.png   
-
-## Theharvester
-
-theharvester-baidu-output.png
-
-theharvester-all-sources.png
-
-theharvester-results.png
-
-## Zenmap
-
-zenmap-host-discovery.png
-
-zenmap_topology.pdf
-
-local-network-configuration.png
-
+evidence/
+│
+├── Footprinting/
+│   ├── whois-output.png
+│   ├── whatweb-output.png
+│   ├── nslookup-output.png
+│   ├── curl-headers.png
+│   └── wafw00f-output.png
+│
+├── GHDB/
+│   └── ghdb-webcam-searches.png
+│
+├── Maltego/
+│   ├── E11-maltego-investigation-graph.png
+│   └── E12-maltego-transform-output.png
+│
+├── Theharvester/
+│   ├── theharvester-baidu-output.png
+│   ├── theharvester-all-sources.png
+│   └── theharvester-results.png
+│
+└── Zenmap/
+    ├── zenmap-host-discovery.png
+    ├── zenmap_topology.pdf
+    └── local-network-configuration.png
 
 ### Evidence Handling and Publication
 
