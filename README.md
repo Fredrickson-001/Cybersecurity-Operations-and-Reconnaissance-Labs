@@ -1189,18 +1189,15 @@ evidence/
 │
 ├── ghdb/
 │   ├── ghdb-webcam-searches.png
-│   ├── ghdb-mathematics-directory.png
-│   └── ghdb-search-notes.md
 │
 ├── maltego/
 │   ├── E11-maltego-investigation-graph.png
-│   ├── E12-maltego-transform-output.png
-│   └── E13-maltego-investigation-notes.md
+│   ├── E12-maltego-transform-output.png   
 │
 ├── theharvester/
 │   ├── theharvester-baidu-output.png
 │   ├── theharvester-all-sources.png
-│   └── theharvester-results.txt
+│   └── theharvester-results.png
 │
 └── zenmap/
     ├── zenmap-host-discovery.png
