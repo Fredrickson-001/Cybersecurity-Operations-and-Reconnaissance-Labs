@@ -912,7 +912,7 @@ nmap -sn 192.168.61.0/24
 
 The `-sn` option performs host discovery without conducting a port scan.
 
-** 5.5.4 Scan summary**
+ ### 5.5.4 Scan summary**
 ```
 256 IP addresses (2 hosts up) scanned in 10.12 seconds.
 ```
