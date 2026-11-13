@@ -1229,9 +1229,6 @@ The following directory structure is the report's supporting evidence.
 
 ## Zenmap
 
-### Host Discovery Results
-![Zenmap Host Discovery Results](EVIDENCE/zenmap-host-discovery.png)
-
 ### Network Topology
 ![Zenmap Network Topology](EVIDENCE/zenmap_topology.png)
 
