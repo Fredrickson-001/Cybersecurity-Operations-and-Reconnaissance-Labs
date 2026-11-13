@@ -1178,31 +1178,51 @@ The quality of a security assessment depends not only on the tools used, but als
 
 The following directory structure is the report's supporting evidence.
 
-evidence/
-│
-├── Footprinting/
-│   ├── whois-output.png
-│   ├── whatweb-output.png
-│   ├── nslookup-output.png
-│   ├── curl-headers.png
-│   └── wafw00f-output.png
-│
-├── GHDB/
-│   └── ghdb-webcam-searches.png
-│
-├── Maltego/
-│   ├── E11-maltego-investigation-graph.png
-│   └── E12-maltego-transform-output.png
-│
-├── Theharvester/
-│   ├── theharvester-baidu-output.png
-│   ├── theharvester-all-sources.png
-│   └── theharvester-results.png
-│
-└── Zenmap/
-    ├── zenmap-host-discovery.png
-    ├── zenmap_topology.pdf
-    └── local-network-configuration.png
+## Footprinting
+
+whois-output.png
+![WHOIS Output](evidence/Footprinting/whois-output.png)
+whatweb-output.png
+![WhatWeb Output](evidence/Footprinting/whatweb-output.png)
+nslookup-output.png
+![Nslookup Output](evidence/Footprinting/nslookup-output.png)
+curl-headers.png
+![cURL HTTP Headers](evidence/Footprinting/curl-headers.png)
+wafw00f-output.png
+![WAFW00F Output](evidence/Footprinting/wafw00f-output.png)
+
+## GHDB
+
+ghdb-webcam-searches.png
+### Evidence
+
+![GHDB Webcam Search Results](evidence/GHDB/ghdb-webcam-searches.png)
+
+## Maltego
+
+### Investigation Graph
+
+![Maltego Investigation Graph](evidence/Maltego/E11-maltego-investigation-graph.png)
+
+### Transform Execution Output
+
+![Maltego Transform Output](evidence/Maltego/E12-maltego-transform-output.png)
+
+## Theharvester
+
+theharvester-baidu-output.png
+![TheHarvester Baidu Output](evidence/Theharvester/theharvester-baidu-output.png)
+theharvester-all-sources.png
+![TheHarvester All Sources Output](evidence/Theharvester/theharvester-all-sources.png)
+theharvester-results.png
+![TheHarvester Saved Results](evidence/Theharvester/theharvester-results.png)
+
+## Zenmap
+
+zenmap-host-discovery.png
+![Zenmap Host Discovery Results](evidence/Zenmap/zenmap-host-discovery.png)
+zenmap_topology.pdf
+[View Zenmap Network Topology (PDF)](evidence/Zenmap/zenmap_topology.pdf)
 
 ### Evidence Handling and Publication
 
