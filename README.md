@@ -912,17 +912,11 @@ nmap -sn 192.168.61.0/24
 
 The `-sn` option performs host discovery without conducting a port scan.
 
-**Scan summary**
+** 5.5.4 Scan summary**
 ```
 256 IP addresses (2 hosts up) scanned in 10.12 seconds.
 ```
 
-**Responsive hosts**
-
-| IP address       | Identified device |
-| ---------------- | ----------------- |
-| `192.168.61.230` | Default gateway   |
-| `192.168.61.164` | Local computer    |
 
 The gateway MAC address was displayed with an unknown vendor.
 
