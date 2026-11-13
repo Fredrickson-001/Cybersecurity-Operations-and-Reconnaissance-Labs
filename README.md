@@ -1181,58 +1181,59 @@ The following directory structure is the report's supporting evidence.
 ## Footprinting
 
 ### WHOIS
-![WHOIS Output](whois-output.png)
+![WHOIS Output](EVIDENCE/whois-output.png)
 
 ### WhatWeb
-![WhatWeb Output](whatweb-output.png)
+![WhatWeb Output](EVIDENCE/whatweb-output.png)
 
 ### Nslookup
-![Nslookup Output](nslookup-output.png)
+![Nslookup Output](EVIDENCE/nslookup-output.png)
 
 ### cURL HTTP Headers
-![cURL HTTP Headers](curl-headers.png)
+![cURL HTTP Headers](EVIDENCE/curl-headers.png)
 
 ### WAFW00F
-![WAFW00F Output](wafw00f-output.png)
+![WAFW00F Output](EVIDENCE/wafw00f-output.png)
 
 ---
 
 ## GHDB
 
-![GHDB Webcam Search Results](ghdb-webcam-searches.png)
+### Webcam Search Results
+![GHDB Webcam Search Results](EVIDENCE/ghdb-webcam-searches.png)
 
 ---
 
 ## Maltego
 
 ### Investigation Graph
-![Maltego Investigation Graph](E11-maltego-investigation-graph.png)
+![Maltego Investigation Graph](EVIDENCE/E11-maltego-investigation-graph.png)
 
 ### Transform Execution Output
-![Maltego Transform Output](E12-maltego-transform-output.png)
+![Maltego Transform Output](EVIDENCE/E12-maltego-transform-output.png)
 
 ---
 
 ## TheHarvester
 
 ### Baidu Search Output
-![TheHarvester Baidu Output](theharvester-baidu-output.png)
+![TheHarvester Baidu Output](EVIDENCE/theharvester-baidu-output.png)
 
 ### All Sources Output
-![TheHarvester All Sources Output](theharvester-all-sources.png)
+![TheHarvester All Sources Output](EVIDENCE/theharvester-all-sources.png)
 
 ### Saved Results
-![TheHarvester Saved Results](theharvester-results.png)
+![TheHarvester Saved Results](EVIDENCE/theharvester-results.png)
 
 ---
 
 ## Zenmap
 
 ### Host Discovery Results
-![Zenmap Host Discovery Results](zenmap-host-discovery.png)
+![Zenmap Host Discovery Results](EVIDENCE/zenmap-host-discovery.png)
 
 ### Network Topology
-![Zenmap Network Topology](zenmap_topology.png)
+![Zenmap Network Topology](EVIDENCE/zenmap_topology.png)
 
 ### Evidence Handling and Publication
 
