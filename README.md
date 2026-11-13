@@ -1181,14 +1181,23 @@ The following directory structure is the report's supporting evidence.
 ## Footprinting
 
 whois-output.png
+
 ![WHOIS Output](evidence/Footprinting/whois-output.png)
+
 whatweb-output.png
+
 ![WhatWeb Output](evidence/Footprinting/whatweb-output.png)
+
 nslookup-output.png
+
 ![Nslookup Output](evidence/Footprinting/nslookup-output.png)
+
 curl-headers.png
+
 ![cURL HTTP Headers](evidence/Footprinting/curl-headers.png)
+
 wafw00f-output.png
+
 ![WAFW00F Output](evidence/Footprinting/wafw00f-output.png)
 
 ## GHDB
@@ -1211,17 +1220,25 @@ ghdb-webcam-searches.png
 ## Theharvester
 
 theharvester-baidu-output.png
+
 ![TheHarvester Baidu Output](evidence/Theharvester/theharvester-baidu-output.png)
+
 theharvester-all-sources.png
+
 ![TheHarvester All Sources Output](evidence/Theharvester/theharvester-all-sources.png)
+
 theharvester-results.png
+
 ![TheHarvester Saved Results](evidence/Theharvester/theharvester-results.png)
 
 ## Zenmap
 
 zenmap-host-discovery.png
+
 ![Zenmap Host Discovery Results](evidence/Zenmap/zenmap-host-discovery.png)
+
 zenmap_topology.pdf
+
 [View Zenmap Network Topology (PDF)](evidence/Zenmap/zenmap_topology.pdf)
 
 ### Evidence Handling and Publication
