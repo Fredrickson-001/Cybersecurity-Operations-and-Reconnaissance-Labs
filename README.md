@@ -1182,64 +1182,64 @@ The following directory structure is the report's supporting evidence.
 
 whois-output.png
 
-![WHOIS Output](evidence/Footprinting/whois-output.png)
+![WHOIS Output](EVIDENCE/Footprinting/whois-output.png)
 
 whatweb-output.png
 
-![WhatWeb Output](evidence/Footprinting/whatweb-output.png)
+![WhatWeb Output](EVIDENCE/Footprinting/whatweb-output.png)
 
 nslookup-output.png
 
-![Nslookup Output](evidence/Footprinting/nslookup-output.png)
+![Nslookup Output](EVIDENCE/Footprinting/nslookup-output.png)
 
 curl-headers.png
 
-![cURL HTTP Headers](evidence/Footprinting/curl-headers.png)
+![cURL HTTP Headers](EVIDENCE/Footprinting/curl-headers.png)
 
 wafw00f-output.png
 
-![WAFW00F Output](evidence/Footprinting/wafw00f-output.png)
+![WAFW00F Output](EVIDENCE/Footprinting/wafw00f-output.png)
 
 ## GHDB
 
 ghdb-webcam-searches.png
 ### Evidence
 
-![GHDB Webcam Search Results](evidence/GHDB/ghdb-webcam-searches.png)
+![GHDB Webcam Search Results](EVIDENCE/GHDB/ghdb-webcam-searches.png)
 
 ## Maltego
 
 ### Investigation Graph
 
-![Maltego Investigation Graph](evidence/Maltego/E11-maltego-investigation-graph.png)
+![Maltego Investigation Graph](EVIDENCE/Maltego/E11-maltego-investigation-graph.png)
 
 ### Transform Execution Output
 
-![Maltego Transform Output](evidence/Maltego/E12-maltego-transform-output.png)
+![Maltego Transform Output](EVIDENCE/Maltego/E12-maltego-transform-output.png)
 
 ## Theharvester
 
 theharvester-baidu-output.png
 
-![TheHarvester Baidu Output](evidence/Theharvester/theharvester-baidu-output.png)
+![TheHarvester Baidu Output](EVIDENCE/Theharvester/theharvester-baidu-output.png)
 
 theharvester-all-sources.png
 
-![TheHarvester All Sources Output](evidence/Theharvester/theharvester-all-sources.png)
+![TheHarvester All Sources Output](EVIDENCE/Theharvester/theharvester-all-sources.png)
 
 theharvester-results.png
 
-![TheHarvester Saved Results](evidence/Theharvester/theharvester-results.png)
+![TheHarvester Saved Results](EVIDENCE/Theharvester/theharvester-results.png)
 
 ## Zenmap
 
 zenmap-host-discovery.png
 
-![Zenmap Host Discovery Results](evidence/Zenmap/zenmap-host-discovery.png)
+![Zenmap Host Discovery Results](EVIDENCE/Zenmap/zenmap-host-discovery.png)
 
 zenmap_topology.png
 
-[View Zenmap Network Topology ](evidence/Zenmap/zenmap_topology.png)
+[View Zenmap Network Topology ](EVIDENCE/Zenmap/zenmap_topology.png)
 
 ### Evidence Handling and Publication
 
